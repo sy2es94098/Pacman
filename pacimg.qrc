@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pacimg/apple.png</file>
+        <file>pacimg/ball.png</file>
+        <file>pacimg/blinky.png</file>
+        <file>pacimg/bluestone.png</file>
+        <file>pacimg/cherries.png</file>
+        <file>pacimg/clyde.png</file>
+        <file>pacimg/energizer.png</file>
+        <file>pacimg/frightened.png</file>
+        <file>pacimg/greystone.png</file>
+        <file>pacimg/inky.png</file>
+        <file>pacimg/pacman_down.png</file>
+        <file>pacimg/pacman_left.png</file>
+        <file>pacimg/pacman_right.png</file>
+        <file>pacimg/pacman_up.png</file>
+        <file>pacimg/pinky.png</file>
+        <file>pacimg/strawberry.png</file>
+        <file>pacimg/zzz.png</file>
+        <file>pacimg/rocket.png</file>
+        <file>pacimg/ghostzzz.png</file>
+        <file>pacimg/bomb.png</file>
+    </qresource>
+</RCC>
